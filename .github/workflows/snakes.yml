@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # Executa automaticamente todo dia
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -13,7 +13,7 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: Gabriel-WC
-          outputs: dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: output

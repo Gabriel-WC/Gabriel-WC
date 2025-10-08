@@ -44,7 +44,7 @@
 ---
 
 ## 💼 Experiência Profissional
-**Baumann | Desenhista Copista (Atual)**  
+**Baumann | Desenhista Copista**  
 - Interpretação e análise de desenhos técnicos para programação de máquinas CNC  
 - Ajuste de parâmetros e otimização de processos para melhoria da produtividade  
 - Experiência com softwares de controle e automação industrial  

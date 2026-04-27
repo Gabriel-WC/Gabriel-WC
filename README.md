@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gabriel William Cardozo  
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre) no SENAI Jaraguá do Sul  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (5º semestre) no SENAI Jaraguá do Sul  
 💻 Buscando oportunidade para ingressar na área de **desenvolvimento de software**  
 🚀 Objetivo: evoluir para **Desenvolvedor Full-Stack**  
 

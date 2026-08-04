@@ -23,8 +23,6 @@
 
 Sou desenvolvedor em início de carreira, **formado em Análise e Desenvolvimento de Sistemas (UniSENAI Jaraguá do Sul, jul/2026)**, em transição da indústria para o software.
 
-Na Baumann atuei como **desenhista copista (CNC)**: interpretava desenhos técnicos e elaborava a programação das máquinas em software especializado — precisão e disciplina que hoje levo para o código. Atualmente trabalho na **WEG** enquanto consolido essa transição.
-
 Não paro no "fez funcionar": gosto de entender a **arquitetura**, as **boas práticas** e o **porquê** de cada decisão técnica. Meu foco é o **ecossistema Java (Java/Spring Boot)**, com prática real em **Flutter** — minha vitrine é o **ALFAMED**, um app de saúde integrado a uma API REST.
 
 ---

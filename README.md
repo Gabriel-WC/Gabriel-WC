@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://github.com/Gabriel-WC">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=0F766E&center=true&vCenter=true&width=620&lines=Da+ind%C3%BAstria+ao+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Flutter+%E2%80%A2+Dart;C%C3%B3digo+limpo%2C+boas+pr%C3%A1ticas+e+aprendizado+cont%C3%ADnuo;Construindo+o+ALFAMED+%F0%9F%A9%BA" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=0F766E&center=true&vCenter=true&width=650&lines=Da+ind%C3%BAstria+ao+software;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Flutter+%E2%80%A2+Dart;C%C3%B3digo+limpo%2C+boas+pr%C3%A1ticas+e+aprendizado+cont%C3%ADnuo;Construindo+o+ALFAMED+%F0%9F%A9%BA" alt="typing"/>
 </a>
 
 <br/>
